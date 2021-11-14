@@ -1,4 +1,3 @@
-
 package gui.util;
 
 import javafx.scene.control.Alert;
